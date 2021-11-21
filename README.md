@@ -141,5 +141,11 @@ tk.messagebox.showerror(
 )
 ```
 
+## Display Name
+![Display Name for Lesson](https://github.com/dev-arthur-g20r/pylib-tkinter/blob/main/images/DisplayName.jpg)
+
+## Calculator
+![Calculator for Activity](https://github.com/dev-arthur-g20r/pylib-tkinter/blob/main/images/Calculator.jpg)
+
 
 > Written with [StackEdit](https://stackedit.io/).
